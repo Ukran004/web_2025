@@ -242,7 +242,7 @@ const styles = {
     },
     viewButton: {
         padding: '12px',
-        backgroundColor: '#4f46e5',
+        backgroundColor: 'rgba(26,54,93,0.9)',
         color: 'white',
         border: 'none',
         borderRadius: '8px',
@@ -288,7 +288,7 @@ const styles = {
     },
     browseButton: {
         padding: '12px 24px',
-        backgroundColor: '#4f46e5',
+        backgroundColor: 'rgba(26,54,93,0.9)',
         color: 'white',
         border: 'none',
         borderRadius: '8px',
